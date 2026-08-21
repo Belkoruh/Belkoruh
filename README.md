@@ -52,7 +52,7 @@ Favorite_Quote: >
 > `PowerShell` `Windows Forensics` `DFIR` `Incident Response` `Artifacts`
 
 ---
-### 🔬 [DRIF_Bash](https://github.com/Belkoruh/DRIF_Bash)
+### 🔬 [DRIF_Shell](https://github.com/Belkoruh/DRIF_Shell)
 > **Automated Forensic Artifact Collector for Linux distributions**
 > 
 > A Shell-based incident response (DFIR) framework designed to collect critical Linux forensic artifacts rapidly (Syslog/Journald logs, /etc configurations, systemd & cron persistence, shell history, process state from /proc, and active network sockets).
@@ -77,7 +77,7 @@ Favorite_Quote: >
 
 #### ⚡ Languages
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-In_Progress_⌛-orange?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-In_Progress_⌛-black?style=for-the-badge&logo=rust&logoColor=white)
