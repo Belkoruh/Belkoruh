@@ -59,7 +59,7 @@ Favorite_Quote: >
 
 | Rank | Status | Rooms Completed | Badges Earned |
 | :---: | :---: | :---: | :---: |
-| 🥇 **Top 1%** (#23770) | `[0xD][LEGEND]` 🇫🇷 | **219** | **41** |
+| 🥇 **Top 1%** (#23770) | `[0xD][LEGEND]` | **219** | **41** |
 
 </div>
 
