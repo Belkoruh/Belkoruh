@@ -100,6 +100,6 @@ Favorite_Quote: >
 
 <div align="center">
 
-> 🚨 **IT'S A TRAP!** — *All tools, research, and scripts published here are strictly for authorized security auditing, incident response, threat hunting, and educational purposes.*
+🚨 **IT'S A TRAP!** — *All tools, research, and scripts published here are strictly for authorized security auditing, incident response, threat hunting, and educational purposes.*
 
 </div>
