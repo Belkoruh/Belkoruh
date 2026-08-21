@@ -2,7 +2,7 @@
 
 # 🚨 *"IT'S A TRAP!"* 🚨
 
-# Belk0ruh `[0xD][LEGEND]`
+                              # Belk0ruh `[0xD][LEGEND]`
 
 ### 🛡️ Security Researcher · Pentester · Cybersecurity Auditor
 
