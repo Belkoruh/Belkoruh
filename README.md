@@ -1,19 +1,21 @@
 <div align="center">
 
-# ⚡ `[ Belk0ruh ]` ⚡
+# 🚨 *"IT'S A TRAP!"* 🚨
 
-### 🩸 Security Researcher · DFIR Specialist · Red Team Enthusiast
+# Belk0ruh `[0xD][LEGEND]`
+
+### 🛡️ Security Researcher · Pentester · Cybersecurity Auditor
 
 ```text
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║  [STATUS: 0xD | LEGEND]                                               ║
- ║  Windows Forensics, Incident Response & Offensive Security Research  ║
- ╚═══════════════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║  "We can't repel firepower of that magnitude!"                           ║
+ ║  --> Threat Hunting, Windows Forensics (DFIR) & Auditing Frameworks      ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 [![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Belk0ruh)
-[![Rooms Completed](https://img.shields.io/badge/THM_Rooms-219_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
-[![Badges](https://img.shields.io/badge/THM_Badges-41_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-219_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-command-stats)
+[![Badges](https://img.shields.io/badge/THM_Badges-41_Badges-purple?style=for-the-badge)](#-tryhackme-command-stats)
 [![Location](https://img.shields.io/badge/Location-France_🇫🇷-blue?style=for-the-badge)](#)
 
 ---
@@ -25,12 +27,17 @@
 ```yaml
 Operator: "Belk0ruh"
 Status: "[0xD][LEGEND]"
-Focus_Areas:
+Roles:
+  - Security Researcher
+  - Pentester
+  - Cybersecurity Auditor
+Tactical_Focus:
   - Digital Forensics & Incident Response (DFIR)
-  - Windows Artifact Collection & Analysis
-  - PowerShell Tooling & Automation
-  - Offensive Security & Privilege Escalation
-Current_Mission: "Developing automated Windows forensic collection frameworks"
+  - Windows Artifact Collection & Forensic Analysis
+  - PowerShell & Automation Tooling
+  - Active Directory Auditing & Privilege Escalation
+Favorite_Quote: >
+  "IT'S A TRAP!" — Admiral Ackbar
 ```
 
 ---
@@ -40,13 +47,13 @@ Current_Mission: "Developing automated Windows forensic collection frameworks"
 ### 🔬 [DRIF_Powershell](https://github.com/Belkoruh/DRIF_Powershell)
 > **Automated Forensic Artifact Collector for Windows OS**
 > 
-> Outil automatisé écrit en PowerShell conçu pour la réponse à incident (DFIR). Il permet la collecte rapide et ordonnée d'artefacts critiques sur les systèmes Windows (MFT, Registry, Event Logs, Persistence, Executions artifacts, etc.).
+> A PowerShell-based incident response (DFIR) framework designed to collect critical Windows forensic artifacts rapidly (MFT, Registry hives, Event Logs, Persistence mechanisms, execution artifacts, and network connections).
 > 
-> `PowerShell` `Windows Forensics` `Incident Response` `Artifacts`
+> `PowerShell` `Windows Forensics` `DFIR` `Incident Response` `Artifacts`
 
 ---
 
-## 🏆 TryHackMe Achievements
+## 🏆 TryHackMe Command Stats
 
 <div align="center">
 
@@ -58,15 +65,16 @@ Current_Mission: "Developing automated Windows forensic collection frameworks"
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 💻 Tech Stack & Arsenal
 
-#### 💻 Scripting & Systems
+#### ⚡ Languages
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-In_Progress_⌛-orange?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-In_Progress_⌛-black?style=for-the-badge&logo=rust&logoColor=white)
 
-#### 🛡️ DFIR & Security Ecosystem
+#### 🛡️ Auditing & DFIR Ecosystem
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -74,7 +82,7 @@ Current_Mission: "Developing automated Windows forensic collection frameworks"
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Tactical Metrics
 
 <div align="center">
 
@@ -85,12 +93,13 @@ Current_Mission: "Developing automated Windows forensic collection frameworks"
 
 ---
 
-## 🌐 Connect & Contact
+## 🌐 Connect & Signal
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belkoruh)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-222222?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Belk0ruh)
 
 </div>
 
@@ -98,9 +107,7 @@ Current_Mission: "Developing automated Windows forensic collection frameworks"
 
 <div align="center">
 
-> ⚠️ *All tools and code published are intended for authorized forensic investigation, threat hunting, and educational research.*
+> 🚨 **IT'S A TRAP!** — *All tools, research, and scripts published here are strictly for authorized security auditing, incident response, threat hunting, and educational purposes.*
 
 </div>
-   ```markdown
-   ![TryHackMe Profile](./thm_banner.png)
-   ```
+```
