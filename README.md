@@ -1,8 +1,3 @@
-Voici le code Markdown mis à jour avec :
-1. **Remplacement de `Bash` par `Shell`** sur le badge de langage.
-2. **Correction du bug d'affichage des cartes GitHub Tactical Metrics** (les images Markdown `![]()` ne s'affichent pas correctement à l'intérieur de balises HTML `<div align="center">` sur GitHub ; le passage aux balises HTML `<img src="..." />` résout ce bug de rendu et permet un alignement parfait côte à côte).
-
-```markdown
 <div align="center">
 
 # 🚨 *"IT'S A TRAP!"* 🚨
