@@ -53,9 +53,9 @@ Favorite_Quote: >
 
 ---
 ### 🔬 [DRIF_Bash](https://github.com/Belkoruh/DRIF_Bash)
-> **Automated Forensic Artifact Collector for Windows OS**
+> **Automated Forensic Artifact Collector for Linux distributions**
 > 
-> A Shell-based incident response (DFIR) framework designed to collect critical Linux forensic artifacts rapidly (MFT, Registry hives, Event Logs, Persistence mechanisms, execution artifacts, and network connections).
+> A Shell-based incident response (DFIR) framework designed to collect critical Linux forensic artifacts rapidly (Syslog/Journald logs, /etc configurations, systemd & cron persistence, shell history, process state from /proc, and active network sockets).
 > 
 > `Shell` `Linux Forensics` `DFIR` `Incident Response` `Artifacts`
 
