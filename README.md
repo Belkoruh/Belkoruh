@@ -6,13 +6,6 @@
 
 ### 🛡️ Security Researcher · Pentester · Cybersecurity Auditor
 
-```text
- ╔══════════════════════════════════════════════════════════════════════════╗
- ║  "We can't repel firepower of that magnitude!"                           ║
- ║  --> Threat Hunting, Windows Forensics (DFIR) & Auditing Frameworks      ║
- ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
 [![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Belk0ruh)
 [![Rooms Solved](https://img.shields.io/badge/THM_Rooms-219_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-command-stats)
 [![Badges](https://img.shields.io/badge/THM_Badges-41_Badges-purple?style=for-the-badge)](#-tryhackme-command-stats)
