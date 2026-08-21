@@ -1,3 +1,8 @@
+Voici le code Markdown mis à jour avec :
+1. **Remplacement de `Bash` par `Shell`** sur le badge de langage.
+2. **Correction du bug d'affichage des cartes GitHub Tactical Metrics** (les images Markdown `![]()` ne s'affichent pas correctement à l'intérieur de balises HTML `<div align="center">` sur GitHub ; le passage aux balises HTML `<img src="..." />` résout ce bug de rendu et permet un alignement parfait côte à côte).
+
+```markdown
 <div align="center">
 
 # 🚨 *"IT'S A TRAP!"* 🚨
@@ -77,7 +82,7 @@ Favorite_Quote: >
 
 #### ⚡ Languages
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-In_Progress_⌛-orange?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-In_Progress_⌛-black?style=for-the-badge&logo=rust&logoColor=white)
@@ -87,17 +92,6 @@ Favorite_Quote: >
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-
----
-
-## 📊 GitHub Tactical Metrics
-
-<div align="center">
-
-![Stats Cyberpunk](https://github-readme-stats.vercel.app/api?username=Belkoruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs Cyberpunk](https://github-readme-stats.vercel.app/api/top-langs/?username=Belkoruh&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
