@@ -52,6 +52,14 @@ Favorite_Quote: >
 > `PowerShell` `Windows Forensics` `DFIR` `Incident Response` `Artifacts`
 
 ---
+### 🔬 [DRIF_Bash](https://github.com/Belkoruh/DRIF_Bash)
+> **Automated Forensic Artifact Collector for Windows OS**
+> 
+> A Shell-based incident response (DFIR) framework designed to collect critical Linux forensic artifacts rapidly (MFT, Registry hives, Event Logs, Persistence mechanisms, execution artifacts, and network connections).
+> 
+> `Shell` `Linux Forensics` `DFIR` `Incident Response` `Artifacts`
+
+---
 
 ## 🏆 TryHackMe Command Stats
 
